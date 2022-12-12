@@ -1,2 +1,5 @@
 # ML_Projects
-Ml projects build during learning
+
+## K_nearest_neighbor
+    customers category predection
+
